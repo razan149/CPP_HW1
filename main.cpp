@@ -1,9 +1,9 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
+
 
    int arraySize , element , check=0;
    cout << "enter the array size"<< endl;
