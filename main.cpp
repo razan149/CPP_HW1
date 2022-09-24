@@ -42,5 +42,7 @@ int main()
             finalArray[c] = Array1[c]-Array2[c];
         cout << finalArray[c] << "   ";
     }
+     
+     
   }
 }
